@@ -1,0 +1,6 @@
+{
+    "model": "gpt-3.5-turbo",
+    "static_dir": ["corpora", "alchemist"],
+    "state_dir": ["lab3_output", "state"],
+    "output_dir": ["lab3_output"]
+}
